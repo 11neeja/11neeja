@@ -31,7 +31,6 @@
 * 📫 Reach me at: **[suva.neeja11@gmail.com](mailto:suva.neeja11@gmail.com)**  
 * 👩‍💻 All of my projects: **[https://github.com/11neeja](https://github.com/11neeja)**  
 * 📝 I write on: **[LinkedIn](https://www.linkedin.com/in/neeja-suva-1212121212121212121/)**  
-* 📄 Resume: **[View Resume](https://drive.google.com/file/d/1y8Am2BmetZ-zqXIBFaJi-oYpL2k7whFn/view?usp=sharing)**  
 * ⚡ Fun fact: *Girls can code and break stereotypes ✨*  
 
 ---
@@ -141,4 +140,3 @@
 * **Typing Banner** already added.  
 
 ---
-✨ Deploy this by creating a repo named **`11neeja`** and saving this as **`README.md`**.
