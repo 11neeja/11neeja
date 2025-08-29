@@ -37,6 +37,7 @@
 
 <div align="center">
   <img align="right" alt="pink girl coding" width="360" src="https://ibb.co/h18vMYpM" />
+  <a href="https://ibb.co/h18vMYpM"><img src="https://i.ibb.co/zHfw56K5/Chat-GPT-Image-Aug-30-2025-02-24-34-AM.png" alt="Chat-GPT-Image-Aug-30-2025-02-24-34-AM" border="0" /></a>
 <div align="left">
 
 #### 🌸 Tech Stack  
