@@ -36,7 +36,7 @@
 ---
 
 <div align="center">
-  <img align="right" alt="pink girl coding" width="360" src="[https://postimg.cc/tsTrkDyb](https://ibb.co/h18vMYpM)" />
+  <img align="right" alt="pink girl coding" width="360" src="https://ibb.co/h18vMYpM" />
 <div align="left">
 
 #### 🌸 Tech Stack  
